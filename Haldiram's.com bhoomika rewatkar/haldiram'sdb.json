@@ -1,0 +1,362 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Snacks"
+    },
+    {
+      "id": "2",
+      "name": "Sweets"
+    },
+    {
+      "id": "3",
+      "name": "Beverages"
+    }
+  ],
+  "products": [
+    {
+      "id": "9ab9",
+      "productName": "rosgulla",
+      "productPrice": "300",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://www.haldirams.com/media/wysiwyg/1_sweet_1.jpg"
+    },
+    {
+      "productName": "Gulab Jamun",
+      "productPrice": "300",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://www.haldirams.com/media/wysiwyg/1_sweet_1.jpg",
+      "id": "1c3e"
+    },
+    {
+      "id": "2b4c",
+      "productName": "Ready to Eat",
+      "productPrice": "800",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://www.haldirams.com/media/wysiwyg/1_sweet_1.jpg"
+    },
+    {
+      "id": "555b",
+      "productName": "Choley chawal",
+      "productPrice": "634",
+      "productCategory": "ready to eat",
+      "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/1/_/1_4.png"
+    },
+    {
+      "id": "0225",
+      "productName": "Choley chawal",
+      "productPrice": "634",
+      "productCategory": "ready to eat",
+      "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/1/_/1_4.png"
+    },
+    {
+      "id": "1563",
+      "productName": "Sweets",
+      "productPrice": "900",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://www.haldirams.com/media/wysiwyg/1_sweet_1.jpg"
+    },
+    {
+      "id": "6a2e",
+      "productName": "Sweets",
+      "productPrice": "900",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://www.haldirams.com/media/wysiwyg/1_sweet_1.jpg"
+    },
+    {
+      "id": "2f5f",
+      "productName": "Sweets",
+      "productPrice": "900",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://www.haldirams.com/media/wysiwyg/1_sweet_1.jpg"
+    },
+    {
+      "id": "fa4f",
+      "productName": "Sweets",
+      "productPrice": "212333",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://m.media-amazon.com/images/I/41Ch0HUGevL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "104e",
+      "productName": "Sweets",
+      "productPrice": "212333",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://m.media-amazon.com/images/I/41Ch0HUGevL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "87ef",
+      "productName": "Sweets",
+      "productPrice": "212333",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://m.media-amazon.com/images/I/41Ch0HUGevL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "b670",
+      "productName": "Sweets",
+      "productPrice": "212333",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://m.media-amazon.com/images/I/41Ch0HUGevL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "3a96",
+      "productName": "Sweets",
+      "productPrice": "212333",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://m.media-amazon.com/images/I/41Ch0HUGevL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "47d0",
+      "productName": "Sweets",
+      "productPrice": "212333",
+      "productCategory": "Crispy and spicy Indian snacks",
+      "productImage": "https://m.media-amazon.com/images/I/41Ch0HUGevL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "1df4",
+      "productName": "chole chawal",
+      "productPrice": "300",
+      "productCategory": "ready to eat",
+      "productImage": "https://www.haldirams.com/media/wysiwyg/1_sweet_1.jpg"
+    },
+    {
+      "id": "9e3a",
+      "productName": "Atta Cookies",
+      "productPrice": "300",
+      "productCategory": "ready to eat ",
+      "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/f/o/fop_5.png"
+    },
+    {
+      "id": "0339",
+      "productName": "Atta Cookies",
+      "productPrice": "300",
+      "productCategory": "ready to eat ",
+      "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/f/o/fop_5.png"
+    },
+    {
+      "id": "fddc",
+      "productName": "Almonds",
+      "productPrice": "145",
+      "productCategory": "Dry Fruit",
+      "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/a/l/almonds---front.png"
+    },
+    {
+      "id": "3cba",
+      "productName": "Kaju pista Cookies",
+      "productPrice": "200",
+      "productCategory": "Sweet",
+      "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/f/o/fop_6.png"
+    },
+    {
+      "id": "0ba7",
+      "productName": "Kaju pista Cookies",
+      "productPrice": "200",
+      "productCategory": "Sweet",
+      "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/f/o/fop_6.png"
+    },
+    {
+      "id": "0503",
+      "productName": "Kaju pista Cookies",
+      "productPrice": "200",
+      "productCategory": "Sweet",
+      "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/f/o/fop_6.png"
+    },
+    
+   {
+          "id": 1,
+          "productName": "Haldiram's Kaju Katli",
+          "productPrice": 599,
+          "productCategory": "Sweets",
+          "productImage": "https://example.com/kaju-katli.jpg"
+        },
+        {
+          "id": 2,
+          "productName": "Haldiram's Soan Papdi",
+          "productPrice": 199,
+          "productCategory": "Sweets",
+          "productImage": "https://example.com/soan-papdi.jpg"
+        },
+        {
+          "id": 3,
+          "productName": "Haldiram's Bhujia Sev",
+          "productPrice": 120,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/bhujia-sev.jpg"
+        },
+        {
+          "id": 4,
+          "productName": "Haldiram's Aloo Bhujia",
+          "productPrice": 110,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/aloo-bhujia.jpg"
+        },
+        {
+          "id": 5,
+          "productName": "Haldiram's Rasgulla",
+          "productPrice": 250,
+          "productCategory": "Sweets",
+          "productImage": "https://example.com/rasgulla.jpg"
+        },
+        {
+          "id": 6,
+          "productName": "Haldiram's Gulab Jamun",
+          "productPrice": 270,
+          "productCategory": "Sweets",
+          "productImage": "https://example.com/gulab-jamun.jpg"
+        },
+        {
+          "id": 7,
+          "productName": "Haldiram's Chana Choor",
+          "productPrice": 99,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/chana-choor.jpg"
+        },
+        {
+          "id": 8,
+          "productName": "Haldiram's Navratan Mix",
+          "productPrice": 130,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/navratan-mix.jpg"
+        },
+        {
+          "id": 9,
+          "productName": "Haldiram's Moong Dal",
+          "productPrice": 125,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/moong-dal.jpg"
+        },
+        {
+          "id": 10,
+          "productName": "Haldiram's Pani Puri Kit",
+          "productPrice": 180,
+          "productCategory": "Ready-to-Eat",
+          "productImage": "https://example.com/pani-puri.jpg"
+        },
+        {
+          "id": 11,
+          "productName": "Haldiram's Rajbhog",
+          "productPrice": 350,
+          "productCategory": "Sweets",
+          "productImage": "https://example.com/rajbhog.jpg"
+        },
+        {
+          "id": 12,
+          "productName": "Haldiram's Motichoor Ladoo",
+          "productPrice": 400,
+          "productCategory": "Sweets",
+          "productImage": "https://example.com/motichoor-ladoo.jpg"
+        },
+        {
+          "id": 13,
+          "productName": "Haldiram's Masala Peanuts",
+          "productPrice": 140,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/masala-peanuts.jpg"
+        },
+        {
+          "id": 14,
+          "productName": "Haldiram's Chatpata Dal",
+          "productPrice": 115,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/chatpata-dal.jpg"
+        },
+        {
+          "id": 15,
+          "productName": "Haldiram's Cornflakes Mixture",
+          "productPrice": 135,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/cornflakes-mixture.jpg"
+        },
+        {
+          "id": 16,
+          "productName": "Haldiram's Khatta Meetha",
+          "productPrice": 125,
+          "productCategory": "Namkeen",
+          "productImage": "https://example.com/khatta-meetha.jpg"
+        },
+        {
+          "id": 17,
+          "productName": "Haldiram's Tandoori Naan",
+          "productPrice": 90,
+          "productCategory": "Ready-to-Eat",
+          "productImage": "https://example.com/tandoori-naan.jpg"
+        },
+        {
+          "id": 18,
+          "productName": "Haldiram's Dal Makhani",
+          "productPrice": 180,
+          "productCategory": "Ready-to-Eat",
+          "productImage": "https://example.com/dal-makhani.jpg"
+        },
+        {
+          "id": 19,
+          "productName": "Haldiram's Paneer Butter Masala",
+          "productPrice": 220,
+          "productCategory": "Ready-to-Eat",
+          "productImage": "https://example.com/paneer-butter-masala.jpg"
+        },
+        {
+          "id": 20,
+          "productName": "Haldiram's Veg Biryani",
+          "productPrice": 250,
+          "productCategory": "Ready-to-Eat",
+          "productImage": "https://example.com/veg-biryani.jpg"
+        },
+        {
+          "id": 21,
+          "productName": "Haldiram's Butter Cookies",
+          "productPrice": 175,
+          "productCategory": "Bakery",
+          "productImage": "https://example.com/butter-cookies.jpg"
+        },
+        {
+          "id": 22,
+          "productName": "Haldiram's Atta Biscuits",
+          "productPrice": 150,
+          "productCategory": "Bakery",
+          "productImage": "https://example.com/atta-biscuits.jpg"
+        },
+        {
+          "id": 23,
+          "productName": "Haldiram's Jeera Cookies",
+          "productPrice": 160,
+          "productCategory": "Bakery",
+          "productImage": "https://example.com/jeera-cookies.jpg"
+        },
+        {
+          "id": 24,
+          "productName": "Haldiram's Methi Mathri",
+          "productPrice": 110,
+          "productCategory": "Snacks",
+          "productImage": "https://example.com/methi-mathri.jpg"
+        },
+        {
+          "id": 25,
+          "productName": "Haldiram's Besan Ladoo",
+          "productPrice": 450,
+          "productCategory": "Sweets",
+          "productImage": "https://example.com/besan-ladoo.jpg"
+        },
+        {
+          "id": 26,
+          "productName": "Haldiram's Roasted Almonds",
+          "productPrice": 750,
+          "productCategory": "Dry Fruits",
+          "productImage": "https://example.com/roasted-almonds.jpg"
+        },
+        {
+          "id": 27,
+          "productName": "Haldiram's Cashew Nuts",
+          "productPrice": 850,
+          "productCategory": "Dry Fruits",
+          "productImage": "https://example.com/cashew-nuts.jpg"
+        },
+        {
+          "id": "bf9a",
+          "productName": "Honey Ots Cookie",
+          "productPrice": "250",
+          "productCategory": "Sweet",
+          "productImage": "https://www.haldirams.com/media/catalog/product/cache/91c328e4e467a384bb2dca2d478e6436/h/o/honey_oats_cookies_-_front.jpg"
+        }
+  ]
+}

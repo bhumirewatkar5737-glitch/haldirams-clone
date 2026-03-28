@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="./admin.css">
+</head>
+<body>
+    <h1>Haldiram's Website </h1>
+
+    <!-- Add Product Form -->
+    <form id="addform">
+      <input type="text" id="prodname" placeholder="Product Name" required>
+      <input type="number" id="prodprice" placeholder="Product Price" required>
+      <input type="text" id="prodcat" placeholder="Product Category" required>
+      <input type="url" id="prodimg" placeholder="Product Image URL" required>
+      <button type="submit">Add Product</button>
+    </form>
+  
+    <!-- Delete Product -->
+    <h2>Delete Product</h2>
+    <input type="text" id="delid" placeholder="Enter Product ID to delete" required>
+    <button onclick="deldata()">Delete Product</button>
+  
+    <!-- Update Product  -->
+    <h2>Update Product</h2>
+    <input type="text" id="updateInp" placeholder="Enter Product ID to update" required>
+    <button id="getDataBtn">Get Product Details</button>
+    <form id="updateform">
+      <input type="text" id="updatename" placeholder="Updated Name">
+      <input type="number" id="updateprice" placeholder="Updated Price">
+      <input type="text" id="updatecat" placeholder="Updated Category">
+      <input type="url" id="updateimg" placeholder="Updated Image URL">
+      <button type="submit">Update Product</button>
+    </form>
+  
+    <!--  Using patch methode Update -->
+    <h2>Partial Update (Patch)</h2>
+    <input type="text" id="upinp" placeholder="Enter Product ID for Partial Update" required>
+    <select id="selectPatch">
+      <option value="productName">Name</option>
+      <option value="productPrice">Price</option>
+      <option value="productCategory">Category</option>
+      <option value="productImage">Image</option>
+    </select>
+    <input type="text" id="latestVal" placeholder="Enter New Value" required>
+    <button onclick="patchUpdate()">Patch Update</button>
+  
+    <div id="productCart" class="cart">
+
+
+
+
+
+
+
+
+
+      
+    </div>
+</body>
+<script src="./admin.js"></script>
+</html>

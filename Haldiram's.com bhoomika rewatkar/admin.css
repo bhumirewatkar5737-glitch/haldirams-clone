@@ -1,0 +1,87 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  form, input, button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  input, select {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+
+
+
+  /* =================================================================== */
+  
+  /* Product Cart */
+.cart {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #fff;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .product-image {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .product-info h3 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .product-info p {
+    margin: 5px 0;
+  }
+  
+  .product-info button {
+    margin: 5px;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .product-info button:hover {
+    background-color: #0056b3;
+  }
+  
